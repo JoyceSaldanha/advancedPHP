@@ -32,7 +32,7 @@ transform: translate(-50%, -50%);
             <th>Enter Middle Name</th><th><input type="text" name="mname"></th>
         </tr>
         <tr>
-            <th>Enter Last Number</th><th><input type="text" name="lname"></th>
+            <th>Enter Last Name</th><th><input type="text" name="lname"></th>
         </tr>
         <tr>
             <th>Enter DOB</th><th><input type="date" name="dob"></th>
